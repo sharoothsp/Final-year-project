@@ -13,11 +13,14 @@ input <br/>
 output <br/>
 ![alt tag](https://github.com/sharoothsp/Final-year-project/blob/main/images/Capture2.PNG)
 
-Case 2:
+Case 2(with helmet):
 input <br/>
 ![alt tag](https://github.com/sharoothsp/Final-year-project/blob/main/images/np4.jpeg)
 
 output <br/>
 ![alt tag](https://github.com/sharoothsp/Final-year-project/blob/main/images/Capture3.PNG)
 
+Technologies Used:
+Python
+Opencv
 
