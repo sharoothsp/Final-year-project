@@ -9,6 +9,7 @@ Bike detection and helmet detection is done using YOLO V3 and for number plate d
 Case 1:(Without helmet)
 input <br/>
 ![alt tag](https://github.com/sharoothsp/Final-year-project/blob/main/images/go1.jpeg)
+<br/>
 output <br/>
 ![alt tag](https://github.com/sharoothsp/Final-year-project/blob/main/images/Capture2.PNG)
 
