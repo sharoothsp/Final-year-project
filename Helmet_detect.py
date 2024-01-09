@@ -158,8 +158,7 @@ for i in range(len(boxes)):
             else:
                 print("detected")
                 numberp(newimg)
-            #cv2.putText(newimg, label, (x+w-10, y+h-10), font, 1, color, 3)
-            #numplate(newimg)
+            
 #print(height,width)
 if height > 700:
     img = cv2.resize(img, None, fx=0.4, fy=0.4)
